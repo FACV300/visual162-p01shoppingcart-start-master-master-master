@@ -913,13 +913,13 @@ Partial Class MainForm
         Me.Label4.AutoSize = True
         Me.Label4.Font = New System.Drawing.Font("Segoe UI", 22.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label4.ForeColor = System.Drawing.Color.LightSkyBlue
-        Me.Label4.Location = New System.Drawing.Point(214, 2)
+        Me.Label4.Location = New System.Drawing.Point(223, 2)
         Me.Label4.Margin = New System.Windows.Forms.Padding(0)
         Me.Label4.Name = "Label4"
         Me.Label4.Padding = New System.Windows.Forms.Padding(3, 0, 0, 4)
-        Me.Label4.Size = New System.Drawing.Size(37, 45)
+        Me.Label4.Size = New System.Drawing.Size(28, 45)
         Me.Label4.TabIndex = 3
-        Me.Label4.Text = "$"
+        Me.Label4.Text = "."
         Me.Label4.TextAlign = System.Drawing.ContentAlignment.MiddleRight
         '
         'Label2

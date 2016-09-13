@@ -371,10 +371,12 @@
     End Sub
 
     Private Sub BtnMujeres_Click(sender As Object, e As EventArgs) Handles BtnMujeres.Click
+
         Lblcan1.Text = 0
         Lblcan2.Text = 0
         Lblcan3.Text = 0
         Lblcan4.Text = 0
+
         BtnHombres.ForeColor = Color.Black
         BtnMujeres.ForeColor = Color.SteelBlue
         BtnCalzado.ForeColor = Color.Black
